@@ -1,0 +1,39 @@
+#progress-dialog {
+    margin: 0 auto;
+    width:204px;
+    background-color: #aaaaaa;
+    padding: 10px;
+    border-radius: 10px;
+    color: #333333;
+}
+
+#progress {
+    width: 200px;
+}
+
+#game {
+    margin: 0 auto;
+    width:204px;
+    background-color: #2d5482;
+    padding: 10px;
+    border-radius: 10px;
+    display: none;
+}
+
+#canvas {
+    border-style: solid;
+    border-color: #306090;
+    border-width: 2px;
+}
+
+#start {
+    margin: 5px auto 0px auto;
+    display: block;
+    background-color: #2d5482;
+    border-color: #82a5ce;
+    border-style: solid;
+    border-radius: 5px;
+    color: #eeeeee;
+    font-size: 14px;
+    padding: 3px 6px 3px 6px;
+}
